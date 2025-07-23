@@ -1,6 +1,6 @@
-#Rakshitha Portfolio
+# Rakshitha Portfolio
 
-##Frontend portfolio designed using 
+## Frontend portfolio designed using 
 
  1.Html
  2.Css
